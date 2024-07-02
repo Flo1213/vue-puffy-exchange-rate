@@ -69,6 +69,8 @@ const fetchCountries = async function () {
     }));
 
     fetchCountriesDone.value = true;
+
+    filterInputCountriesData();
   } catch (error) {
     console.error(`Error fetching data of countries: ${error} `);
   }

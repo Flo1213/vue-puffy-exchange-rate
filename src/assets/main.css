@@ -1,0 +1,24 @@
+@import './base.css';
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+body {
+  background-color: var(--color-background-primary);
+  color: var(--color-white-primary);
+  font-family: "Nunito", sans-serif;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+

@@ -1,0 +1,10 @@
+:root {
+    --color-heading:#ff9f1c;
+    --color-trash-icon:#999999;
+
+    --color-background-primary:#000000;
+
+    --color-white-primary:#FFFFFF;
+    --color-gray-primary:#E5E5E5;
+    --color-icon-trash:rgba(233, 236, 239, 0.5);
+}
